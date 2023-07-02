@@ -37,9 +37,6 @@ namespace StupidWomen
                 Console.ReadKey();
                 Console.Clear();
                 Console.WriteLine("Please, enter 1 or 2: ");
-
-             
-            
         }
     }       
 }
